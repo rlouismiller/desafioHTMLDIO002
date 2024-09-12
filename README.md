@@ -1,4 +1,4 @@
-# desafioHTMLDIO002
+# desafio HTML DIO 002
  Criando meu Primeiro Site Completo com HTML na DIO.
 
  Observações:
